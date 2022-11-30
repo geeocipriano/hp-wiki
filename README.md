@@ -1,2 +1,2 @@
 # hp-wiki
- Vue Project using Hp Rest Api 
+ Projeto integrado com API do Harry Potter desenvolvido em Vue 3 + Vuetify 
